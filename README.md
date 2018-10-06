@@ -16,10 +16,10 @@
 
 | 原书 | 源码 | 贡献者 |
 | --- | --- | --- |
-| Pandas Cookbook | [&#x1f4dd;](https://www.jianshu.com/c/4105c237459d) | [SeanCheney](https://www.jianshu.com/u/130f76596b02) |
+| [Pandas Cookbook](https://www.packtpub.com/mapt/book/big_data_and_business_intelligence/9781784393878) | [&#x1f4dd;](https://www.jianshu.com/c/4105c237459d) | [SeanCheney](https://www.jianshu.com/u/130f76596b02) |
 
 ## 其它
 
 | 原书 | 源码 | 贡献者 |
 | --- | --- | --- |
-| python 数据分析与挖掘实战 | [&#x1f4dd;](https://github.com/apachecn/python_data_analysis_and_mining_action) | [wnma](https://github.com/wnma3mz) |
+| [Python 数据分析与挖掘实战](https://book.douban.com/subject/26677686/) | [&#x1f4dd;](https://github.com/apachecn/python_data_analysis_and_mining_action) | [wnma](https://github.com/wnma3mz) |
